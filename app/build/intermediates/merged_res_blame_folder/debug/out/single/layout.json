@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-mergeDebugResources-30:\\layout\\tracker_status_progress_view.xml",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\layout\\tracker_status_progress_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-mergeDebugResources-30:\\layout\\vertical_status_progress.xml",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\layout\\vertical_status_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-mergeDebugResources-30:\\layout\\indicator_progress.xml",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\layout\\indicator_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-mergeDebugResources-30:\\layout\\horizontal_status_progress.xml",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\layout\\horizontal_status_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.orderTrackerIndicator.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.orderTrackerIndicator.app-main-33:/layout/activity_main.xml"
+    }
+]

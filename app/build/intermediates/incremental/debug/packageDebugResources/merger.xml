@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res"><file name="baseline_backpack_24" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\baseline_backpack_24.xml" qualifiers="" type="drawable"/><file name="box" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\box.png" qualifiers="" type="drawable"/><file name="circle" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\circle.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="activity_main" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="indicator_progress" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\layout\indicator_progress.xml" qualifiers="" type="layout"/><file name="tracker_status_progress_view" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\layout\tracker_status_progress_view.xml" qualifiers="" type="layout"/><file name="vertical_status_progress" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\layout\vertical_status_progress.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="StateProgressBar">
+
+        <attr format="color" name="spb_stateBackgroundColor"/>
+        <attr format="color" name="spb_stateForegroundColor"/>
+
+        <attr format="color" name="spb_stateNumberBackgroundColor"/>
+        <attr format="color" name="spb_stateNumberForegroundColor"/>
+
+        <attr format="color" name="spb_currentStateDescriptionColor"/>
+        <attr format="color" name="spb_stateDescriptionColor"/>
+
+        <attr format="dimension" name="spb_stateSize"/>
+
+        <attr format="dimension" name="spb_stateTextSize"/>
+
+        <attr format="dimension" name="spb_stateDescriptionSize"/>
+
+        <attr format="dimension" name="spb_stateLineThickness"/>
+
+        <attr format="boolean" name="spb_checkStateCompleted"/>
+
+        <attr format="boolean" name="spb_stateNumberIsDescending"/>
+
+        <attr format="boolean" name="spb_animateToCurrentProgressState"/>
+
+        <attr format="boolean" name="spb_enableAllStatesCompleted"/>
+
+        <attr format="dimension" name="spb_descriptionTopSpaceDecrementer"/>
+
+        <attr format="dimension" name="spb_descriptionTopSpaceIncrementer"/>
+
+        <attr format="integer" name="spb_animationDuration"/>
+
+        <attr format="integer" name="spb_animationStartDelay"/>
+
+        <attr format="boolean" name="spb_justifyMultilineDescription"/>
+
+        <attr format="dimension" name="spb_descriptionLinesSpacing"/>
+
+        <attr format="integer" name="spb_maxDescriptionLines"/>
+
+
+        <attr format="enum" name="spb_currentStateNumber">
+            <enum name="one" value="1"/>
+            <enum name="two" value="2"/>
+            <enum name="three" value="3"/>
+            <enum name="four" value="4"/>
+            <enum name="five" value="5"/>
+        </attr>
+
+
+        <attr format="enum" name="spb_maxStateNumber">
+            <enum name="one" value="1"/>
+            <enum name="two" value="2"/>
+            <enum name="three" value="3"/>
+            <enum name="four" value="4"/>
+            <enum name="five" value="5"/>
+        </attr>
+
+    </declare-styleable><declare-styleable name="TrackerStatesProgressbar">
+        <attr format="dimension" name="trackerProgressTitleSize"/>
+        <attr format="dimension" name="trackerProgressSubTitleSize"/>
+        <attr format="dimension" name="trackerProgressContainerMargin"/>
+        <attr format="reference" name="trackerIndicatorCompletedIcon"/>
+        <attr format="reference" name="trackerIndicatorWorkingIcon"/>
+        <attr format="reference" name="statusIcon"/>
+        <attr format="color" name="trackerProgressTitleColor"/>
+        <attr format="color" name="trackerProgressSubTitleColor"/>
+        <attr format="boolean" name="isTrackerIndicatorIcon"/>
+        <attr format="boolean" name="enable_StatusIcon"/>
+        <attr format="boolean" name="enable_status_dateTxt"/>
+        <attr format="dimension" name="trackerIndicatorContainerSize"/>
+        <attr format="color" name="trackerIndicatorWorkingBgColor"/>
+        <attr format="color" name="trackerIndicatorCompletedBgColor"/>
+        <attr format="color" name="trackerDateStatusColor"/>
+        <attr format="float" name="progressLineScale"/>
+        <attr format="color" name="ProgressTrackerColor"/>
+        <attr format="color" name="ProgressColor"/>
+        <attr format="dimension" name="trackerDateStatusSize"/>
+        <attr format="boolean" name="trackProgressEnableOnTouch"/>
+        <attr format="enum" name="view_type">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr>
+
+    </declare-styleable></file><file path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\values\colors.xml" qualifiers=""><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="background_color">#F2000000</color><color name="foreground_color">#b42379</color><color name="foreground_color_blue">#00BCD4</color><color name="background_text_color">#808080</color><color name="foreground_text_color">#eeeeee</color></file><file path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Order Tracker Indicator</string><string name="check_icon"></string></file><file path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.OrderTrackerIndicator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style><style name="Theme.OrderTrackerIndicator" parent="Base.Theme.OrderTrackerIndicator"/></file><file path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.OrderTrackerIndicator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style></file><file name="backup_rules" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="check_mark" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\check_mark.png" qualifiers="" type="drawable"/><file name="fast_delivery" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\fast_delivery.png" qualifiers="" type="drawable"/><file name="shopping_cart" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\shopping_cart.png" qualifiers="" type="drawable"/><file name="store" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\store.png" qualifiers="" type="drawable"/><file name="custom_vertical_progress_bar_progress" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\custom_vertical_progress_bar_progress.xml" qualifiers="" type="drawable"/><file name="custom_vertical_progress_bar_track" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\drawable\custom_vertical_progress_bar_track.xml" qualifiers="" type="drawable"/><file name="horizontal_status_progress" path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res\layout\horizontal_status_progress.xml" qualifiers="" type="layout"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\build\generated\res\resValues\debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="TrackerStatesProgressbar">
+        <attr format="dimension" name="trackerProgressTitleSize"/>
+        <attr format="dimension" name="trackerProgressSubTitleSize"/>
+        <attr format="dimension" name="trackerProgressContainerMargin"/>
+        <attr format="reference" name="trackerIndicatorCompletedIcon"/>
+        <attr format="reference" name="trackerIndicatorWorkingIcon"/>
+        <attr format="reference" name="statusIcon"/>
+        <attr format="color" name="trackerProgressTitleColor"/>
+        <attr format="color" name="trackerProgressSubTitleColor"/>
+        <attr format="boolean" name="isTrackerIndicatorIcon"/>
+        <attr format="boolean" name="enable_StatusIcon"/>
+        <attr format="boolean" name="enable_status_dateTxt"/>
+        <attr format="dimension" name="trackerIndicatorContainerSize"/>
+        <attr format="color" name="trackerIndicatorWorkingBgColor"/>
+        <attr format="color" name="trackerIndicatorCompletedBgColor"/>
+        <attr format="color" name="trackerDateStatusColor"/>
+        <attr format="float" name="progressLineScale"/>
+        <attr format="color" name="ProgressTrackerColor"/>
+        <attr format="color" name="ProgressColor"/>
+        <attr format="dimension" name="trackerDateStatusSize"/>
+        <attr format="boolean" name="trackProgressEnableOnTouch"/>
+        <attr format="enum" name="view_type">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr>
+
+    </declare-styleable><declare-styleable name="StateProgressBar">
+
+        <attr format="color" name="spb_stateBackgroundColor"/>
+        <attr format="color" name="spb_stateForegroundColor"/>
+
+        <attr format="color" name="spb_stateNumberBackgroundColor"/>
+        <attr format="color" name="spb_stateNumberForegroundColor"/>
+
+        <attr format="color" name="spb_currentStateDescriptionColor"/>
+        <attr format="color" name="spb_stateDescriptionColor"/>
+
+        <attr format="dimension" name="spb_stateSize"/>
+
+        <attr format="dimension" name="spb_stateTextSize"/>
+
+        <attr format="dimension" name="spb_stateDescriptionSize"/>
+
+        <attr format="dimension" name="spb_stateLineThickness"/>
+
+        <attr format="boolean" name="spb_checkStateCompleted"/>
+
+        <attr format="boolean" name="spb_stateNumberIsDescending"/>
+
+        <attr format="boolean" name="spb_animateToCurrentProgressState"/>
+
+        <attr format="boolean" name="spb_enableAllStatesCompleted"/>
+
+        <attr format="dimension" name="spb_descriptionTopSpaceDecrementer"/>
+
+        <attr format="dimension" name="spb_descriptionTopSpaceIncrementer"/>
+
+        <attr format="integer" name="spb_animationDuration"/>
+
+        <attr format="integer" name="spb_animationStartDelay"/>
+
+        <attr format="boolean" name="spb_justifyMultilineDescription"/>
+
+        <attr format="dimension" name="spb_descriptionLinesSpacing"/>
+
+        <attr format="integer" name="spb_maxDescriptionLines"/>
+
+
+        <attr format="enum" name="spb_currentStateNumber">
+            <enum name="one" value="1"/>
+            <enum name="two" value="2"/>
+            <enum name="three" value="3"/>
+            <enum name="four" value="4"/>
+            <enum name="five" value="5"/>
+        </attr>
+
+
+        <attr format="enum" name="spb_maxStateNumber">
+            <enum name="one" value="1"/>
+            <enum name="two" value="2"/>
+            <enum name="three" value="3"/>
+            <enum name="four" value="4"/>
+            <enum name="five" value="5"/>
+        </attr>
+
+    </declare-styleable></configuration></mergedItems></merger>

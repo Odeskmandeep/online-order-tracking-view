@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\layout_tracker_status_progress_view.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\layout\\tracker_status_progress_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.orderTrackerIndicator.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.orderTrackerIndicator.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.orderTrackerIndicator.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.orderTrackerIndicator.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\layout_indicator_progress.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\layout\\indicator_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_box.png.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\box.png"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_baseline_backpack_24.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\baseline_backpack_24.xml"
+    },
+    {
+        "merged": "com.orderTrackerIndicator.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.orderTrackerIndicator.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_shopping_cart.png.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\shopping_cart.png"
+    },
+    {
+        "merged": "com.orderTrackerIndicator.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.orderTrackerIndicator.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.orderTrackerIndicator.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.orderTrackerIndicator.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.orderTrackerIndicator.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.orderTrackerIndicator.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_store.png.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\store.png"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\layout_vertical_status_progress.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\layout\\vertical_status_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_check_mark.png.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\check_mark.png"
+    },
+    {
+        "merged": "com.orderTrackerIndicator.app-merged_res-31:/drawable_baseline_backpack_24.xml.flat",
+        "source": "com.orderTrackerIndicator.app-main-33:/drawable/baseline_backpack_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\layout_horizontal_status_progress.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\layout\\horizontal_status_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_custom_vertical_progress_bar_track.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\custom_vertical_progress_bar_track.xml"
+    },
+    {
+        "merged": "com.orderTrackerIndicator.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.orderTrackerIndicator.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_fast_delivery.png.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\fast_delivery.png"
+    },
+    {
+        "merged": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-merged_res-31:\\drawable_custom_vertical_progress_bar_progress.xml.flat",
+        "source": "C:\\Users\\GTD-0013\\.gradle\\daemon\\8.0\\com.orderTrackerIndicator.app-main-33:\\drawable\\custom_vertical_progress_bar_progress.xml"
+    }
+]

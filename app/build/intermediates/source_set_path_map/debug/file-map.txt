@@ -1,0 +1,34 @@
+com.orderTrackerIndicator.app-lifecycle-livedata-2.6.2-0 C:\Users\GTD-0013\.gradle\caches\transforms-3\0c73414f231284f84d83a3b9befad449\transformed\lifecycle-livedata-2.6.2\res
+com.orderTrackerIndicator.app-lifecycle-viewmodel-2.6.2-1 C:\Users\GTD-0013\.gradle\caches\transforms-3\13465d33f3c264aaa92d440cacaac08e\transformed\lifecycle-viewmodel-2.6.2\res
+com.orderTrackerIndicator.app-coordinatorlayout-1.1.0-2 C:\Users\GTD-0013\.gradle\caches\transforms-3\155e29d007de3b3784c0da79052b2def\transformed\coordinatorlayout-1.1.0\res
+com.orderTrackerIndicator.app-core-runtime-2.2.0-3 C:\Users\GTD-0013\.gradle\caches\transforms-3\190eb7688c199b2268737600246f9282\transformed\core-runtime-2.2.0\res
+com.orderTrackerIndicator.app-annotation-experimental-1.4.0-4 C:\Users\GTD-0013\.gradle\caches\transforms-3\2293c91c53818128f570d0043dff19d4\transformed\annotation-experimental-1.4.0\res
+com.orderTrackerIndicator.app-emoji2-views-helper-1.3.0-5 C:\Users\GTD-0013\.gradle\caches\transforms-3\25ad982efcd5a6cb4e5ecd191f871050\transformed\emoji2-views-helper-1.3.0\res
+com.orderTrackerIndicator.app-lifecycle-process-2.6.2-6 C:\Users\GTD-0013\.gradle\caches\transforms-3\2848d7fd6f07eb45eb58b2f704e47102\transformed\lifecycle-process-2.6.2\res
+com.orderTrackerIndicator.app-emoji2-1.3.0-7 C:\Users\GTD-0013\.gradle\caches\transforms-3\33ea2a8c262bf939cdc32e6a3c72a5e7\transformed\emoji2-1.3.0\res
+com.orderTrackerIndicator.app-lifecycle-runtime-2.6.2-8 C:\Users\GTD-0013\.gradle\caches\transforms-3\38a299098fbd38f7d293213d52e11931\transformed\lifecycle-runtime-2.6.2\res
+com.orderTrackerIndicator.app-core-ktx-1.13.0-9 C:\Users\GTD-0013\.gradle\caches\transforms-3\39d4b7f3584b08b6010373bf004e71e1\transformed\core-ktx-1.13.0\res
+com.orderTrackerIndicator.app-lifecycle-viewmodel-savedstate-2.6.2-10 C:\Users\GTD-0013\.gradle\caches\transforms-3\3a5e3682b2494d83f1b62843662b190b\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.orderTrackerIndicator.app-drawerlayout-1.1.1-11 C:\Users\GTD-0013\.gradle\caches\transforms-3\4b906fa0b8a48db0bb50b56afc64d8e0\transformed\drawerlayout-1.1.1\res
+com.orderTrackerIndicator.app-startup-runtime-1.1.1-12 C:\Users\GTD-0013\.gradle\caches\transforms-3\7d316aff347a934a4e76fb2f969ba283\transformed\startup-runtime-1.1.1\res
+com.orderTrackerIndicator.app-viewpager2-1.0.0-13 C:\Users\GTD-0013\.gradle\caches\transforms-3\84813c30f5de0cb95363cde61dfd9e6b\transformed\viewpager2-1.0.0\res
+com.orderTrackerIndicator.app-savedstate-1.2.1-14 C:\Users\GTD-0013\.gradle\caches\transforms-3\8bc26185f37c9c9bc828d40e0e3ad716\transformed\savedstate-1.2.1\res
+com.orderTrackerIndicator.app-material-1.12.0-15 C:\Users\GTD-0013\.gradle\caches\transforms-3\9b88b1a57bebe50125cfe6ef2782a5b3\transformed\material-1.12.0\res
+com.orderTrackerIndicator.app-fragment-1.5.4-16 C:\Users\GTD-0013\.gradle\caches\transforms-3\aa6ac7d7bedda4c8c2d983f6b70f23dd\transformed\fragment-1.5.4\res
+com.orderTrackerIndicator.app-appcompat-resources-1.7.0-17 C:\Users\GTD-0013\.gradle\caches\transforms-3\ad779f6d5afefe5ee68addc6c63dd782\transformed\appcompat-resources-1.7.0\res
+com.orderTrackerIndicator.app-activity-1.8.0-18 C:\Users\GTD-0013\.gradle\caches\transforms-3\ae5978210a7250adc536d811b5b2ea81\transformed\activity-1.8.0\res
+com.orderTrackerIndicator.app-profileinstaller-1.3.1-19 C:\Users\GTD-0013\.gradle\caches\transforms-3\b0ec46a520d64345bbd0faa48deecd1a\transformed\profileinstaller-1.3.1\res
+com.orderTrackerIndicator.app-transition-1.5.0-20 C:\Users\GTD-0013\.gradle\caches\transforms-3\c7ae17f5b502b3573569f9fcdbc9cca0\transformed\transition-1.5.0\res
+com.orderTrackerIndicator.app-recyclerview-1.1.0-21 C:\Users\GTD-0013\.gradle\caches\transforms-3\d2c2cafc90d598b775e4bfe93c5b3c3d\transformed\recyclerview-1.1.0\res
+com.orderTrackerIndicator.app-lifecycle-livedata-core-2.6.2-22 C:\Users\GTD-0013\.gradle\caches\transforms-3\d2d3294321d379b4bd582bd1c7d9d6fe\transformed\lifecycle-livedata-core-2.6.2\res
+com.orderTrackerIndicator.app-core-1.13.0-23 C:\Users\GTD-0013\.gradle\caches\transforms-3\d31dfce54dca98da96c850d8ad76b0ee\transformed\core-1.13.0\res
+com.orderTrackerIndicator.app-constraintlayout-2.1.4-24 C:\Users\GTD-0013\.gradle\caches\transforms-3\dec4614628d7a9d2a5f1f5197247ace1\transformed\constraintlayout-2.1.4\res
+com.orderTrackerIndicator.app-cardview-1.0.0-25 C:\Users\GTD-0013\.gradle\caches\transforms-3\f6258c9338dc0fe367c50f1f943dd550\transformed\cardview-1.0.0\res
+com.orderTrackerIndicator.app-appcompat-1.7.0-26 C:\Users\GTD-0013\.gradle\caches\transforms-3\f7d5c5de2c5a5ff6b0afd868b520f61b\transformed\appcompat-1.7.0\res
+com.orderTrackerIndicator.app-pngs-27 E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\build\generated\res\pngs\debug
+com.orderTrackerIndicator.app-resValues-28 E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\build\generated\res\resValues\debug
+com.orderTrackerIndicator.app-packageDebugResources-29 E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.orderTrackerIndicator.app-packageDebugResources-30 E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.orderTrackerIndicator.app-merged_res-31 E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\build\intermediates\merged_res\debug
+com.orderTrackerIndicator.app-debug-32 E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\debug\res
+com.orderTrackerIndicator.app-main-33 E:\susheel chetri data\Glocify android Projects\DemoGitProject\OrderTrackerIndicator\app\src\main\res

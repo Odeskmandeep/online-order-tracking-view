@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#F2000000</color>
+    <color name="background_text_color">#808080</color>
+    <color name="black">#FF000000</color>
+    <color name="foreground_color">#b42379</color>
+    <color name="foreground_color_blue">#00BCD4</color>
+    <color name="foreground_text_color">#eeeeee</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Order Tracker Indicator</string>
+    <string name="check_icon"></string>
+    <style name="Base.Theme.OrderTrackerIndicator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.OrderTrackerIndicator" parent="Base.Theme.OrderTrackerIndicator"/>
+    <declare-styleable name="StateProgressBar">
+
+        <attr format="color" name="spb_stateBackgroundColor"/>
+        <attr format="color" name="spb_stateForegroundColor"/>
+
+        <attr format="color" name="spb_stateNumberBackgroundColor"/>
+        <attr format="color" name="spb_stateNumberForegroundColor"/>
+
+        <attr format="color" name="spb_currentStateDescriptionColor"/>
+        <attr format="color" name="spb_stateDescriptionColor"/>
+
+        <attr format="dimension" name="spb_stateSize"/>
+
+        <attr format="dimension" name="spb_stateTextSize"/>
+
+        <attr format="dimension" name="spb_stateDescriptionSize"/>
+
+        <attr format="dimension" name="spb_stateLineThickness"/>
+
+        <attr format="boolean" name="spb_checkStateCompleted"/>
+
+        <attr format="boolean" name="spb_stateNumberIsDescending"/>
+
+        <attr format="boolean" name="spb_animateToCurrentProgressState"/>
+
+        <attr format="boolean" name="spb_enableAllStatesCompleted"/>
+
+        <attr format="dimension" name="spb_descriptionTopSpaceDecrementer"/>
+
+        <attr format="dimension" name="spb_descriptionTopSpaceIncrementer"/>
+
+        <attr format="integer" name="spb_animationDuration"/>
+
+        <attr format="integer" name="spb_animationStartDelay"/>
+
+        <attr format="boolean" name="spb_justifyMultilineDescription"/>
+
+        <attr format="dimension" name="spb_descriptionLinesSpacing"/>
+
+        <attr format="integer" name="spb_maxDescriptionLines"/>
+
+
+        <attr format="enum" name="spb_currentStateNumber">
+            <enum name="one" value="1"/>
+            <enum name="two" value="2"/>
+            <enum name="three" value="3"/>
+            <enum name="four" value="4"/>
+            <enum name="five" value="5"/>
+        </attr>
+
+
+        <attr format="enum" name="spb_maxStateNumber">
+            <enum name="one" value="1"/>
+            <enum name="two" value="2"/>
+            <enum name="three" value="3"/>
+            <enum name="four" value="4"/>
+            <enum name="five" value="5"/>
+        </attr>
+
+    </declare-styleable>
+    <declare-styleable name="TrackerStatesProgressbar">
+        <attr format="dimension" name="trackerProgressTitleSize"/>
+        <attr format="dimension" name="trackerProgressSubTitleSize"/>
+        <attr format="dimension" name="trackerProgressContainerMargin"/>
+        <attr format="reference" name="trackerIndicatorCompletedIcon"/>
+        <attr format="reference" name="trackerIndicatorWorkingIcon"/>
+        <attr format="reference" name="statusIcon"/>
+        <attr format="color" name="trackerProgressTitleColor"/>
+        <attr format="color" name="trackerProgressSubTitleColor"/>
+        <attr format="boolean" name="isTrackerIndicatorIcon"/>
+        <attr format="boolean" name="enable_StatusIcon"/>
+        <attr format="boolean" name="enable_status_dateTxt"/>
+        <attr format="dimension" name="trackerIndicatorContainerSize"/>
+        <attr format="color" name="trackerIndicatorWorkingBgColor"/>
+        <attr format="color" name="trackerIndicatorCompletedBgColor"/>
+        <attr format="color" name="trackerDateStatusColor"/>
+        <attr format="float" name="progressLineScale"/>
+        <attr format="color" name="ProgressTrackerColor"/>
+        <attr format="color" name="ProgressColor"/>
+        <attr format="dimension" name="trackerDateStatusSize"/>
+        <attr format="boolean" name="trackProgressEnableOnTouch"/>
+        <attr format="enum" name="view_type">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr>
+
+    </declare-styleable>
+</resources>
